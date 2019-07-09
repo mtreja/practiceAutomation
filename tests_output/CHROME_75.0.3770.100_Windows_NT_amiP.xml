@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="1"
+            failures="1"
+            tests="1">
+
+  <testsuite name="amiP"
+    errors="1" failures="1" hostname="" id="" package="amiP" skipped="3"
+    tests="1" time="6.967" timestamp="">
+  
+    <testcase name="test" classname="amiP" time="6.967" assertions="2">
+
+    
+
+    <failure message="    at module.exports (C:\Users\mtrej\Desktop\DevMountain\Project\practiceAutomation\testAssets\editTest.js:15:17)">    at Object.test (C:\Users\mtrej\Desktop\DevMountain\Project\practiceAutomation\tests\amiP.js:14:9)</failure>
+    </testcase>
+  
+
+  
+
+  
+    
+    <testcase
+      name="It can add an employee" classname="amiP">
+      <skipped />
+    </testcase>
+    
+    <testcase
+      name="It can edit a new employee" classname="amiP">
+      <skipped />
+    </testcase>
+    
+    <testcase
+      name="It can edit an existing employee" classname="amiP">
+      <skipped />
+    </testcase>
+    
+  
+  </testsuite>
+</testsuites>
